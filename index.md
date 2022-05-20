@@ -5,9 +5,9 @@
 ### heading 3
 
 
-[google](www.google.com)
+[google](https://www.google.com/)
 
-[facebook](www.facebook.com)
+[facebook](https://www.facebook.com/)
 
 
 ![Image](https://cdn-prod.medicalnewstoday.com/content/images/articles/325/325466/man-walking-dog.jpg)
